@@ -1,4 +1,3 @@
-language
--python
-scpypt
--pytest
+language: python
+script:
+  - pytest
