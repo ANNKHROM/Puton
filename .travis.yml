@@ -1,3 +1,5 @@
 language: python
 script:
   - pytest
+compiler:
+-pyton 3.7
