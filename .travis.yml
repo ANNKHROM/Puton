@@ -2,4 +2,4 @@ language: python
 script:
   - pytest
 compiler:
--pyton 3.7
+-pyton 3.6
